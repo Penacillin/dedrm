@@ -5,7 +5,7 @@ Clone with
 git clone --recurse-submodules https://github.com/Penacillin/dedrm.git
 ```
 
-Put you `AdobeKey.der` in `~/`
+Put your `AdobeKey.der` in `~/`
 ```bash
 mkdir outdir
 pip install -r requirements.txt
