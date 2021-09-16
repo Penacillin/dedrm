@@ -1,0 +1,4 @@
+[submodule "DeDRM_tools"]
+	path = ./DeDRM_tools
+	url = https:/github.com/apprenticeharper/DeDRM_tools.git
+	
